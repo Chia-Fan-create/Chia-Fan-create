@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Chia-Fan (Fran)
 
 🎓 MS in Information Science @ University of Pittsburgh  
-🔍 Seeking Data Science Internship (Summer 2025)  
+🔍 Seeking Data Science Internship (Summer 2026)  
 💻 Python | SQL | Data Visualization | Machine Learning
 🌎 Based in Pittsburgh, from Taiwan 🇹🇼  
 ✨ Skilled in Communication & Data Analysis
